@@ -4,7 +4,7 @@ Curso de Javascript feito na udemy, o curso é feito em 12 módulos, sendo dois 
 
 Os módulos são:
 
-1- Apresentação (11m)
+1- Apresentação (11m) /n
 2- Bases da programação web (2h49m)
 3- Introdução ao JavaScript e preparação do ambiente (1h10m)
 4- Javascript conceitos básicos I (2h30m)
