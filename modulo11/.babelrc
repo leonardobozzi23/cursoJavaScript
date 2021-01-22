@@ -1,0 +1,5 @@
+{
+    "presets": ["@babel/preset-env"]
+}
+
+/*babel ./aulababel.js -o ./bundle.js*/
